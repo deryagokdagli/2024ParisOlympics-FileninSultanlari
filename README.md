@@ -6,6 +6,7 @@ Oyuncuların Attack, Serve, Block ve toplam puan performansları karşılaştır
 Pozisyon bazlı performans dağılımları incelendi (Outside Hitter, Middle Blocker, Setter).
 Hangi oyuncuların hangi alanlarda öne çıktığı ve takımın genel katkısı görselleştirildi.
 Farklı grafikler ve tablolar ile performans karşılaştırmaları sunuldu (Bar Chart, Heatmap).
+Ek olarak veriler https://en.volleyballworld.com/volleyball/competitions/volleyball-olympic-games-paris-2024/statistics/women/best-scorers/ sitesinden alınıp excel dosyasına dönüştürülmüştür.
 
 [EN]
 Filenin Sultanları 2024 Paris Olympics Match Analysis �
